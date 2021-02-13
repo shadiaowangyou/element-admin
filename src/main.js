@@ -59,6 +59,7 @@ const i18n = new VueI18n({
     : 'zh', // set locale
   messages // set locale messages
 })
+// 132132
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
